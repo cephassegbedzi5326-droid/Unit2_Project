@@ -1,0 +1,21 @@
+account_id,customer_id,account_type,balance,last_update,Customer name
+A001,C001,Savings,1539,8/15/2024,Kojo Asare
+A002,C002,Savings,5964,        16/04/2025,Kojo Asare
+A003,C003,Current,5835,11/8/2024,Afia Darko
+A004,C004,Current,4775,8/16/2024,Kojo Darko
+A005,C005,Current,7042,        16/07/2024,Yaw Mensah
+A006,C006,Current,8102,2/12/2024,Adjoa Mensah
+A007,C007,Current,8312,12/3/2024,Adjoa Mensah
+A008,C008,Current,6320,12/25/2024,Afia Boateng
+A009,C009,Current,7132,5/6/2025,Esi Mensah
+A010,C010,Current,8891,3/7/2025,Afia Mensah
+A011,C011,Current,3779,1/29/2024,Kofi Asare
+A012,C012,Savings,1924,9/24/2024,Afia Darko
+A013,C013,Current,2581,        17/08/2025,Kojo Asare
+A014,C014,Current,8714,2/9/2024,Kofi Darko
+A015,C015,Current,4324,        20/03/2025,Adjoa Darko
+A016,C016,Current,6713,        17/11/2024,Yaw Boateng
+A017,C017,Current,8026,6/7/2025,Yaw Asare
+A018,C018,Current,1255,1/29/2025,Adjoa Mensah
+A019,C019,Current,5804,        13/07/2024,Yaw Boateng
+A020,C020,Current,2838,2/15/2024,Afia Darko
